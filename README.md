@@ -109,4 +109,7 @@ Allowing batch predictions through file uploads.
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/b8a9023f-fc18-4976-b802-e7f1a71491d5)
+![Image](https://github.com/user-attachments/assets/60924c02-2e41-4b40-a245-a8c429ed5bbe)
+
 
